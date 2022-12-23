@@ -20,7 +20,17 @@
 //     Console.WriteLine(N[N.Length - 3]);
 // }
 
+// Task_3
 
+// Console.WriteLine("Введите число: ");
+// int num = Convert.ToInt32(Console.ReadLine());
 
-
+// if (Convert.ToBoolean(num / 7) && Convert.ToBoolean(num / 23))
+// {
+//     Console.WriteLine("да");
+// }
+// else
+// {
+//    Console.WriteLine("нет");
+// }
 
